@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+
+main{
+    margin: 20px;
+    padding: 20px;
+}
+
+main h1{
+    color: white;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.video{
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: auto;
+    border: 5px solid white;
+}
